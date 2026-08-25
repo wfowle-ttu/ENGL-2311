@@ -1,0 +1,9 @@
+---
+title: P1 Job Ad Selection
+author: William Fowle (ENGL2311-008)
+format:
+    docx: 
+        number-sections: false
+---
+
+I have decided that I would like to use the Business development internship which is provided as a 2311 Internship. I think this one is going to be a good one to use as Business development is a quite broad employment category and many different sets of skills can be useful in such a role. 
