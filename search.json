@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "notes",
+    "objectID": "lectures/Lecture-912026.html",
+    "href": "lectures/Lecture-912026.html",
+    "title": "Lecture 9-1-2026",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Ethos:\nPresident Schovanec to the student body:\nI’ve been the president for 10 years and I’ve always strived for the safety of our students and beauty of our campus. I’ve noticed recently a lot of patches forming in our grass, I urge the students to use the provided pavement to safely traverse campus and get around. Red Raiders always strive to be examples and examplery students show their pride for their campus by walking on the sidewalk.\n\nFree Write on Chapter 1:\nIn Mechanical Engineering typically when building or understanding something that is built it is important to be able to discern the design and decision making that has gone into a product. This can help additional engineers contribute and it can help us derive a layman’s understanding so that other non-engineering contributors can understand what is being built.\nIn technical writing a genre is a category of writing that share the same structure and purpose.\nA Medium is form in which a message travels from sender to reciever.\nIn Mechanical Engineering a report is a common tool to report various findings about a problem or solution that we are trying to come up with. Reports are helpful because they allow an engineer to cover a varieety of topics on a particular subject that any contributing engineer or stakeholder would need to know about in order to understand where the project is at. Reports are typically done in a variety of ways but typically if we’re trying to find for example, the soundness of a structure in order to determine next steps in a project an engineer will go and perform his evaluation and then write a report to document his findings. From there other engineers/contributors can use that report to help understand or determine next steps."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
