@@ -1,0 +1,176 @@
+---
+# No title:/author: — the letterhead pulled in below IS the heading, and it
+# must be identical to the cover letter's.
+#
+# Body font: 12pt in .docx (Word's default), 11pt in .pdf. Both sit inside
+# the required 10-12pt range. Section headings come out larger than body
+# text in both formats, which is the intended contrast.
+format:
+  docx:
+    number-sections: false
+  pdf:
+    documentclass: article
+    geometry: margin=0.75in
+    fontsize: 11pt
+    linestretch: 1
+    indent: false
+    colorlinks: false
+    number-sections: false
+---
+
+<!-- ================ HEADING (identical to cover letter) ================
+Same include as project-1-draftcoverletter.qmd. This is what satisfies the
+requirement that the cover letter heading match the resume. Edit contact
+info in _heading.qmd only — never here.
+====================================================================== -->
+
+{{< include _heading.qmd >}}
+
+<!-- ######################################################################
+RULES THAT APPLY TO EVERY SECTION BELOW — read once, then fill in.
+
+ORDER is fixed by the chronological-resume structure the instructor
+specified: identifying info, education, employment, skills, activities.
+Reverse chronological WITHIN each section (most recent entry first).
+
+NO FIRST-PERSON PRONOUNS anywhere. No "I," "me," "my," "us." Bullets start
+with a verb, not a subject.
+
+PARALLEL STRUCTURE. Within one entry, every bullet takes the same
+grammatical shape. Past roles use past tense throughout; your current role
+uses present tense throughout. Do not mix.
+
+ACTION VERBS, NOT REPEATED. Each bullet opens with a different strong verb.
+Verbs that fit this BD role: Analyzed, Researched, Sourced, Qualified,
+Built, Negotiated, Coordinated, Presented, Delivered, Streamlined,
+Increased, Secured, Forecasted, Mapped. Do not open three bullets with
+"Managed."
+
+TAILORING. This resume is aimed at the 2311 Climate Solutions Business
+Development Intern ad. Pull its language in where it is HONESTLY true of
+your experience: market research, commercialization strategy, pipeline
+management, lead qualification, partnerships, market intelligence,
+cross-functional collaboration, industry trends.
+
+PUNCTUATION CONSISTENCY. Pick one rule for bullet endings — periods on all
+of them, or periods on none — and hold it across the whole document.
+
+ONE PAGE. If it spills onto page two, cut bullets rather than shrinking the
+font below 10pt or narrowing the margins further. Check there is no empty
+trailing page before submitting.
+
+NO REFERENCES SECTION, and no "References available upon request."
+###################################################################### -->
+
+<!-- ============================ OPTIONAL ============================
+SUMMARY OF QUALIFICATIONS — left out deliberately. The instructor said an
+objective statement is not recommended, an executive summary is not
+recommended for entry-level positions, and neither is required. The space
+is worth more to your Experience bullets.
+
+If you decide you want one anyway, uncomment the two lines below and put it
+here, above Education. Never an objective statement — a summary.
+
+## Summary of Qualifications
+
+[Two or three lines. No pronouns. Qualifications only, no career goals.]
+=============================================================== -->
+
+## Education
+
+***
+
+<!-- Reverse chronological. Include the actual degree abbreviation (B.A.,
+B.S., B.B.A.), major, school, city, state, and graduation year. Mark an
+in-progress degree as "Expected [Month Year]" — do not imply it is finished.
+
+GPA is optional. Include it only if it helps you; if you list it, list it
+for every entry that has one. High school belongs here only if it is
+directly relevant to this position, which for most college students it is
+not — delete that entry.
+
+Relevant coursework is useful when work experience is thin. Choose courses
+this employer would care about: market research, finance, statistics,
+economics, business communication. -->
+
+**B.S., [Mechanical Engineering]**\
+[Texas Tech] — [Lubbock, Texas]\
+*Expected [May 2028]*
+
+- Relevant coursework: [course; course; course]
+- [GPA: 0.00 — delete this bullet if you are not listing GPA]
+
+## Experience
+
+***
+
+<!-- Reverse chronological. Every entry needs: job title, organization,
+city, state, and dates of employment. Two to three bullets minimum per
+entry, each demonstrating a skill, experience, or ability.
+
+Write bullets in STAR shape and land the RESULT. "Researched 40 prospective
+accounts and built a qualified pipeline that produced 6 first meetings"
+beats "Responsible for market research." Quantify wherever the number is
+real — counts, percentages, dollar figures, timeframes.
+
+Volunteer work counts and goes in this same section. Unrelated jobs still
+earn a spot if you can connect them to transferable skills this ad names.
+
+Copy the block below for each additional entry. Keep the formatting
+identical across entries — that consistency is the graded alignment. -->
+
+**[Job Title]**\
+[Organization] — [City, State]\
+*[Month Year] – [Month Year]*
+
+- [Action verb + what you did + measurable result.]
+- [Different action verb + what you did + measurable result.]
+- [Different action verb + what you did + measurable result.]
+
+**[Job Title]**\
+[Organization] — [City, State]\
+*[Month Year] – [Month Year]*
+
+- [Action verb + what you did + measurable result.]
+- [Different action verb + what you did + measurable result.]
+
+## Skills
+
+***
+
+<!-- HARD, VERIFIABLE SKILLS ONLY. The instructor explicitly warns against
+subjective self-assessments — do not list Time Management, Leadership,
+Hard-working, Detail-oriented, Team Player, or Creative. Those are your
+opinion of yourself; your bullets above are supposed to demonstrate them.
+
+Avoid redundancy: if you name the specific tools, do not also claim to be
+"skilled in software."
+
+This ad explicitly requires Microsoft Office proficiency for analysis and
+presentations, so name the actual applications.
+
+Languages: only fluent or conversational ones. Your native language does
+not need to be listed. Delete the line if it does not apply. -->
+
+- **[Category, e.g. Analysis]:** [tool; tool; tool]
+- **[Category, e.g. Research]:** [tool; tool; tool]
+- **Languages:** [Language (fluent); Language (conversational)]
+
+## Activities
+
+***
+
+<!-- Optional — delete this whole section if you have nothing substantive.
+An empty or padded section costs you more than the space it fills.
+
+Prioritize what is relevant to this position: professional or business
+student organizations, case competitions, sustainability or climate
+involvement, leadership roles with real responsibility.
+
+Leave out unrelated hobbies (running, cooking, travel). Religious and
+political affiliations are your call, but they can polarize a reader. -->
+
+**[Organization]** — [Role]\
+*[Month Year] – [Month Year]*
+
+- [What you contributed, with a result.]

@@ -1,0 +1,39 @@
+<!--
+SHARED HEADING — DO NOT ADD YAML TO THIS FILE.
+
+This block is pulled into BOTH project-1-draftcoverletter.qmd and
+project-1-draftresume.qmd via {{< include _heading.qmd >}}, which is what
+guarantees the requirement that the cover letter heading be IDENTICAL to
+the resume heading. Edit your contact info here once; both documents update.
+
+REQUIREMENTS THIS BLOCK SATISFIES
+  - Name, complete mailing address, telephone number, email address.
+  - Exactly ONE email, ONE phone number, ONE complete mailing address.
+    Do not add a second of any of these — the rubric calls that out.
+  - Professional email address. If your everyday address is not clearly
+    professional, use your TTU address here instead.
+
+The trailing backslash (\) forces a hard line break. Keep them, or the
+lines collapse into a single paragraph.
+
+Left-aligned rather than centered on purpose: centering renders reliably in
+PDF but needs a custom Word style to work in .docx, and this block has to
+look identical in both formats. The name is bold at body size — deliberately
+not blown up, per the "name so much larger it looks ridiculous" warning.
+-->
+
+**William Fowle**\
+[Street Address]\
+[City, State ZIP]\
+[(000) 000-0000]  |  [your.professional@email.com]\
+[linkedin.com/in/yourprofile]
+
+<!--
+The LinkedIn line is optional. Chapter 11 lists it as standard, and your
+prep worksheet argued a portfolio link is essential in engineering — but
+this ad is a Business Development role scored on market research, strategy,
+and partnerships. Include a GitHub/portfolio link ONLY if what it shows
+supports THIS role. A repo of code is not evidence for a BD internship.
+-->
+
+***

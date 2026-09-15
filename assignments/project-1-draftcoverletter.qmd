@@ -1,0 +1,134 @@
+---
+# No title:/author: on purpose. A business letter must not carry a Pandoc
+# title block — the letterhead below IS the heading.
+format:
+  docx:
+    number-sections: false
+  pdf:
+    documentclass: article
+    geometry: margin=1in
+    fontsize: 11pt
+    linestretch: 1
+    indent: false
+    colorlinks: false
+---
+
+<!-- ==================== HEADING (identical to resume) ====================
+Pulled from _heading.qmd so it is byte-for-byte the same block used in
+project-1-draftresume.qmd. Edit your contact info in _heading.qmd, not here.
+======================================================================== -->
+
+{{< include _heading.qmd >}}
+
+<!-- ==================== DATE ==================== -->
+
+[Month Day, 2026]
+
+<!-- ============== RECIPIENT / INSIDE ADDRESS ==============
+Assignment requires: contact name, contact title, company/organization,
+full address. The 2311 Climate Solutions job ad supplies none of these, so
+per the assignment instructions you may make them up. Replace every
+bracketed placeholder below.
+
+Do NOT use "To Whom It May Concern." Invent a named individual and title
+(e.g. a Director of Business Development or Head of Commercialization).
+======================================================================= -->
+
+[Contact First Last]\
+[Contact Title]\
+2311 Climate Solutions\
+[Street Address]\
+[City, State ZIP]
+
+<!-- ==================== SALUTATION ==================== -->
+
+Dear Hiring Manager, 
+
+<!-- ============ PARAGRAPH 1 — INTRODUCTION ============
+Three to four sentences. Name the exact position (Business Development
+Intern) and where you saw it, plus a brief reason you are qualified.
+Covers the job ad's question (1): why you want this internship.
+==================================================================== -->
+
+
+
+<!-- ============ PARAGRAPH 2 — MAIN BODY ============
+The bulk of the letter: why you want the position and how your
+qualifications and interests align with 2311 Climate Solutions. Covers the
+job ad's question (2): why you are a good fit. Use concrete, STAR-style
+evidence from your business development experience and the ad's keywords
+(market research, commercialization strategy, pipeline management,
+partnerships, cross-functional). Do not rehash the resume.
+
+If you need a second body paragraph, add it here — the ½-to-¾ page target
+still has to hold.
+================================================================== -->
+
+[Main body paragraph.]
+
+<!-- ============ PARAGRAPH 3 — CONCLUSION ============
+Close with confidence. Covers the job ad's question (3): how this
+internship aligns with your career goals. Request an interview, give a way
+to reach you, and thank the reader. Avoid "please," "hope," "honored."
+=================================================================== -->
+
+[Closing paragraph.]
+
+<!-- ==================== SIGNATURE BLOCK ====================
+The &nbsp; line holds open the gap between the complimentary close and your
+typed name — that is where a handwritten signature goes on a printed copy.
+========================================================================= -->
+
+Sincerely,
+
+&nbsp;
+
+William Fowle
+
+<!-- ###########################################################
+ASSIGNMENT INSTRUCTIONS — reference only. This is an HTML comment,
+so none of it renders to docx or pdf. Safe to leave in on submission.
+##############################################################
+
+A cover letter accompanies your resume to introduce you to a prospective employer as a knowledgeable and capable applicant. Ideally, the content of the cover letter should address why you would be a good fit for the organization to which you are applying. It should be written in business format and be no longer than one page. You are not trying to address or cover every aspect of the position in a cover letter. Remember that your goal is to market yourself by clearly explaining why the employer should consider hiring you. You should highlight what sets you apart from other candidates and how this difference will ultimately benefit the employer. Do thorough research on the organization so you can articulate your competitive advantage.
+
+Using your organizational research and resume as guides, as well as readings, you will craft a cover letter that responds directly to the job ad you chose. Cover letters generally have three paragraphs: 1) a brief introduction, 2) an in-depth description or narrative that explains why you are an excellent match for the job, and 3) a goodwill conclusion with a request for an interview.
+
+The heart of this assignment is to target and tailor your job documents (the resume and cover letter) to your target organization and avoid having your documents look or sound generic. Your resume and cover letter should reflect the rhetorical situation for which you are writing; make sure you reasonably know the audience, purpose, and context for your job documents. For example, never start your letter with "To Whom It May Concern." Instead, find the name of the hiring person, and if the organization is too large, find a more human and less archaic way to write your salutation.
+
+COVER LETTER FORMAT
+  - The cover letter has a heading (top contact information) that is identical to the resume.
+  - Include the full address and contact information of the company/organization. (For purposes of this assignment, you can make up this information if it is not provided in the supplied materials).
+  - Contact name, contact title, company/organization, full address. (For purposes of this assignment, you can make up this information if it is not provided in the supplied materials).
+  - Use a three-paragraph structure that is approximately 1/2 page long to 3/4 page long.
+  - Introduction paragraph: three to four sentences indicating the exact position you are interested in and a brief reason why you feel you are qualified for the position.
+  - Main body: the majority of your cover letter details why you are interested in the position and how your qualifications and interests align with the company.
+  - Final paragraph: end your letter with confidence and a way to communicate with you for a follow-up interview. Make sure you thank the reader for their time.
+
+DO
+  - Research the company and describe how their mission aligns with your own approach or professional interests.
+  - Provide a simple and concise theme with your knowledge of the company/organization.
+  - Explain why you are passionate about the industry or company.
+  - Include relevant work experience, education, skills, and abilities to support your purpose for your interest in the company and position.
+  - Address to a named individual and their title.
+  - Be brief and to the point.
+  - Project confidence and enthusiasm.
+  - Minimize "I" statements, monotonous sentence structure, or excessive redundancy.
+  - Proofread your letter.
+
+DO NOT
+  - Send your resume without a cover letter. You always send a cover letter, even if an employer does not request one.
+  - Be negative or desperate (avoid words such as: please, hope, honored, etc.).
+  - Mention your lack of skill or experience.
+  - Include false claims or exaggeration of your skill or abilities.
+  - Wait for the employer to follow up with you.
+  - Send written material with typos or poorly constructed sentence structure, grammar, and/or syntax.
+  - Indicate how you would benefit from, learn, grow, or use the position as a stepping stone or temporary position for your other goals.
+  - Use only your education and personal interest as the purpose for pursuing the position. It is important to translate transferrable skills from previous positions that would apply to the current position you are seeking.
+  - Rehash your resume or include too much detail that is already on your resume.
+
+FROM THE JOB AD (Application Process): in your cover letter, explain
+(1) why you want this internship, (2) why you would be a good fit for
+2311 Climate Solutions, and (3) how this internship aligns with your
+career goals.
+########################################################### -->
