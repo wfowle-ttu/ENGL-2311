@@ -12,6 +12,7 @@ format:
     documentclass: article
     geometry: margin=0.75in
     fontsize: 11pt
+    mainfont: Times New Roman
     linestretch: 1
     indent: false
     colorlinks: false
@@ -76,33 +77,7 @@ here, above Education. Never an objective statement — a summary.
 [Two or three lines. No pronouns. Qualifications only, no career goals.]
 =============================================================== -->
 
-## Education
-
-***
-
-<!-- Reverse chronological. Include the actual degree abbreviation (B.A.,
-B.S., B.B.A.), major, school, city, state, and graduation year. Mark an
-in-progress degree as "Expected [Month Year]" — do not imply it is finished.
-
-GPA is optional. Include it only if it helps you; if you list it, list it
-for every entry that has one. High school belongs here only if it is
-directly relevant to this position, which for most college students it is
-not — delete that entry.
-
-Relevant coursework is useful when work experience is thin. Choose courses
-this employer would care about: market research, finance, statistics,
-economics, business communication. -->
-
-**B.S., [Mechanical Engineering]**\
-[Texas Tech] — [Lubbock, Texas]\
-*Expected [May 2028]*
-
-- Relevant coursework: [course; course; course]
-- [GPA: 0.00 — delete this bullet if you are not listing GPA]
-
 ## Experience
-
-***
 
 <!-- Reverse chronological. Every entry needs: job title, organization,
 city, state, and dates of employment. Two to three bullets minimum per
@@ -119,24 +94,70 @@ earn a spot if you can connect them to transferable skills this ad names.
 Copy the block below for each additional entry. Keep the formatting
 identical across entries — that consistency is the graded alignment. -->
 
-**[Job Title]**\
-[Organization] — [City, State]\
-*[Month Year] – [Month Year]*
+<!-- CURRENT ROLE — present tense throughout. Every other entry below is
+past tense. Do not mix within an entry. -->
 
-- [Action verb + what you did + measurable result.]
-- [Different action verb + what you did + measurable result.]
-- [Different action verb + what you did + measurable result.]
+**Software Consultant**\
+Invent Labs — Lubbock, Texas\
+*July 2026 – Present*
 
-**[Job Title]**\
-[Organization] — [City, State]\
-*[Month Year] – [Month Year]*
+- Advises several software companies on technical and commercial growth strategy, spanning platform architecture decisions and go-to-market positioning.
+- Collaborates with established engineering teams to help them adopt new industry trends such as AI native development.
+- Scopes and negotiates client engagements end to end, from initial discovery through signed statement of work.
+- Identifies client pain points during discovery conversations and translates them into prioritized technical solutions.
 
-- [Action verb + what you did + measurable result.]
-- [Different action verb + what you did + measurable result.]
+**Head of Engineering**\
+Palpabl — Lubbock, Texas\
+*September 2025 – July 2026*
+
+- Owned the full product lifecycle of a cloud-native, multi-tenant SaaS platform, from concept origination through production-ready MVP delivery and go-to-market positioning.
+- Drove the self-service commercialization strategy, including subscription infrastructure, storefront, and automated customer onboarding.
+- Directed a team of 5 engineers and delivered the platform to go-live readiness within six months of active development.
+- Worked with marketing and product teams to get company alignment and cross-cut non technical stakeholder requirements into positive technical outcomes.
+- Prospected and qualified Palpabl's first paying customer and lead them through the onboarding process establishing critical go to market patterns for follow on sales associates.
+
+**Software Engineer**\
+Mandry Technology — Lubbock, Texas\
+*July 2024 – October 2025*
+
+- Authored the go-to-market brief establishing a $2–5 billion total addressable market and the platform's initial pricing model, presented for executive review, later approved.
+- Secured three design-partner commitments by qualifying prospective accounts and leading solution discussions.
+- Delivered a full-stack SaaS alpha in eleven months, building the application, cloud infrastructure, and automated release pipeline.
+
+<!-- Two network engineering roles condensed into one entry. The full split
+(Network Engineer, part-time, Aug 2022 – May 2024; Network Engineer I,
+full-time, Jan 2024 – Jul 2024) is accurate but spends a one-page resume's
+scarcest space on the work least relevant to a business development ad.
+Framed here around client-facing responsibility, which is the transferable
+part. Cut these bullets first if the document runs long. -->
+
+**Network Engineer**\
+Mandry Technology — Lubbock, Texas\
+*August 2022 – July 2024*
+
+- Supported small-business, government, and healthcare clients in HIPAA- and SOC 2-regulated environments, serving as direct technical contact during deployments.
+- Coordinated scheduled project deployments alongside reactive incident response across multiple concurrent client sites.
+
+## Education
+
+<!-- Reverse chronological. Include the actual degree abbreviation (B.A.,
+B.S., B.B.A.), major, school, city, state, and graduation year. Mark an
+in-progress degree as "Expected [Month Year]" — do not imply it is finished.
+
+GPA is optional. Include it only if it helps you; if you list it, list it
+for every entry that has one. High school belongs here only if it is
+directly relevant to this position, which for most college students it is
+not — delete that entry.
+
+Relevant coursework is useful when work experience is thin. Choose courses
+this employer would care about: market research, finance, statistics,
+economics, business communication. -->
+
+**B.S., Mechanical Engineering**\
+Texas Tech — Lubbock, Texas\
+*Expected May 2028*
 
 ## Skills
-
-***
 
 <!-- HARD, VERIFIABLE SKILLS ONLY. The instructor explicitly warns against
 subjective self-assessments — do not list Time Management, Leadership,
@@ -152,25 +173,45 @@ presentations, so name the actual applications.
 Languages: only fluent or conversational ones. Your native language does
 not need to be listed. Delete the line if it does not apply. -->
 
-- **[Category, e.g. Analysis]:** [tool; tool; tool]
-- **[Category, e.g. Research]:** [tool; tool; tool]
-- **Languages:** [Language (fluent); Language (conversational)]
+<!-- Curated for THIS ad, not for an engineering role. Analysis and
+reporting sits first because four of the seven job functions are some form
+of research, synthesize, present. The full DevOps stack (Kubernetes,
+Terraform, Helm, Envoy, Kustomize, Azure Pipelines, Redis, Kafka) is
+deliberately compressed into one line — a BD reader does not score it, and
+it costs space the top line needs.
+
+CONFIRM THE FIRST LINE before submitting. The ad names Microsoft Office
+explicitly, so it has to appear, but list only what you actually work in.
+If your analysis and writing happen in Google Workspace or Quarto instead,
+say so honestly rather than claiming Office.
+
+Languages line deleted per the template instruction — add it back only if
+you have a second language at conversational level or better. -->
+
+- **Analysis & Reporting:** Microsoft Excel; PowerPoint; Word; SQL
+- **Software Development:** C# (.NET 8); TypeScript; React; Redis
+- **Cloud & Infrastructure:** Microsoft Azure; Docker; Kubernetes; Terraform; Confluent Kafka
+- **Networking:** BGP; OSPF; MPLS; SIP; VLANs; VPNs
+- **Certification:** CompTIA Network+
+
+<!-- ============================ ACTIVITIES ============================
+SECTION DELETED — deliberately, not by oversight.
+
+The template's own rule: "delete this whole section if you have nothing
+substantive. An empty or padded section costs you more than the space it
+fills." Working full-time through school is the reason there is nothing
+here, and that is not a weakness worth papering over with a membership you
+do not actually hold.
+
+If something materializes before the final draft — a student org, a case
+competition, volunteer work — restore the section here:
 
 ## Activities
 
 ***
 
-<!-- Optional — delete this whole section if you have nothing substantive.
-An empty or padded section costs you more than the space it fills.
-
-Prioritize what is relevant to this position: professional or business
-student organizations, case competitions, sustainability or climate
-involvement, leadership roles with real responsibility.
-
-Leave out unrelated hobbies (running, cooking, travel). Religious and
-political affiliations are your call, but they can polarize a reader. -->
-
 **[Organization]** — [Role]\
 *[Month Year] – [Month Year]*
 
 - [What you contributed, with a result.]
+==================================================================== -->

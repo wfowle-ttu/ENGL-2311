@@ -22,7 +22,7 @@ project-1-draftresume.qmd. Edit your contact info in _heading.qmd, not here.
 
 <!-- ==================== DATE ==================== -->
 
-[Month Day, 2026]
+September 14, 2026
 
 <!-- ============== RECIPIENT / INSIDE ADDRESS ==============
 Assignment requires: contact name, contact title, company/organization,
@@ -34,11 +34,8 @@ Do NOT use "To Whom It May Concern." Invent a named individual and title
 (e.g. a Director of Business Development or Head of Commercialization).
 ======================================================================= -->
 
-[Contact First Last]\
-[Contact Title]\
 2311 Climate Solutions\
-[Street Address]\
-[City, State ZIP]
+
 
 <!-- ==================== SALUTATION ==================== -->
 
@@ -49,7 +46,7 @@ Three to four sentences. Name the exact position (Business Development
 Intern) and where you saw it, plus a brief reason you are qualified.
 Covers the job ad's question (1): why you want this internship.
 ==================================================================== -->
-
+I saw the job advertisement at 2311 Climate Solutions for the Business Development intern on LinkedIn. I'm writing this letter to let you know how I matchup with the qualifications of the aforementioned job advertisement. As you read, you will see how my education and experience matches up with many of the requirements you are seeking for this role such as startup experience, market research, as well as working in a fast paced environment. I feel as thought working with a climate centered company that is focused on creating commercially viable alternatives to traditionally wasteful industrial byproducts serves as an excellent oppurtunity to learn and grow as a business developer while also serving my community which is something that I find personally very fulfilling. 
 
 
 <!-- ============ PARAGRAPH 2 — MAIN BODY ============
@@ -64,7 +61,13 @@ If you need a second body paragraph, add it here — the ½-to-¾ page target
 still has to hold.
 ================================================================== -->
 
-[Main body paragraph.]
+In my previous experience I worked as a head of engineering for a startup focused on network management and maintenance. During my time there I worked to take core customer requirements as well as direct customer feedback and converted it into technical deliverables that we could use to better match our product to our market. I used my market analysis to AB test features with our existing customer base in order to qualify leads, test new verticals, and find strong positions in which our startup could grow into valuable verticals. 
+
+I worked with a cross-functional team of executives, marketing, product, and engineering in order to align the business with our customer's endgoals. As the engineering leader of that organization I had to establish key technical patterns, explain our plans and goals to executive staff, and cross align other leaders with our technical goals and vice versa. Because this specific company was a startup we also had to move fast and without complete certainty at every turn, through my experience there I found that I excel in fast paced environments while still being able to keep a keen attention to detail.
+
+I have always appreciated working directly with clients which is why I decided to take a step back from the engineering role and look for a role more client focused, in my experience at startups I have had to work with clients on key technical issues, most of that work invovled working with customers and finding their pain points, with innovative techniques I was able to find creative solutions and then create patterns that others were able to build on and deploy. 
+
+
 
 <!-- ============ PARAGRAPH 3 — CONCLUSION ============
 Close with confidence. Covers the job ad's question (3): how this
@@ -72,7 +75,7 @@ internship aligns with your career goals. Request an interview, give a way
 to reach you, and thank the reader. Avoid "please," "hope," "honored."
 =================================================================== -->
 
-[Closing paragraph.]
+Overall, I feel as though I matchup well with this role. Working with customers and determining the direction and strategy a business follows to aquire customers and grow it's revenue base is something I excel at. I enjoy working with customers to find win/win solutions that enable their businesses to grow and in the process of which allows us to grow as well. 
 
 <!-- ==================== SIGNATURE BLOCK ====================
 The &nbsp; line holds open the gap between the complimentary close and your
@@ -80,9 +83,6 @@ typed name — that is where a handwritten signature goes on a printed copy.
 ========================================================================= -->
 
 Sincerely,
-
-&nbsp;
-
 William Fowle
 
 <!-- ###########################################################

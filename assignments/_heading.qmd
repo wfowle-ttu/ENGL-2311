@@ -23,10 +23,10 @@ not blown up, per the "name so much larger it looks ridiculous" warning.
 -->
 
 **William Fowle**\
-[Street Address]\
-[City, State ZIP]\
-[(000) 000-0000]  |  [your.professional@email.com]\
-[linkedin.com/in/yourprofile]
+7049 95th Street\
+Lubbock, Texas 79424\
+(361) 446-1657  |  williamfowle98@gmail.com\
+linkedin.com/in/williamfowle
 
 <!--
 The LinkedIn line is optional. Chapter 11 lists it as standard, and your
@@ -36,4 +36,4 @@ and partnerships. Include a GitHub/portfolio link ONLY if what it shows
 supports THIS role. A repo of code is not evidence for a BD internship.
 -->
 
-***
+---
