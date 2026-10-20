@@ -1,0 +1,22 @@
+
+
+1. **Purpose of a Report versus a Proposal**
+    The core purpose of a report is to provide information related to a subject a company or staff are interested in. Reports are typically used to reveal information about that subject so that individuals involved in decision making can make informed decisions. Along with the report which typically quickly summarizes it's findings in it's executive summary section, a report also includes a lgoner section describing the methodology of study and data collection so that the conclusions made by the report can be double checked. 
+
+    A proposal is similar to a report but has several distinct differences. Both the report genre and proposal have an audience pertaining to decision makers, whereas a report provides information and conclusions that leaders draw on in order to make informed decisions. A proposal seeks to convince leaders of a particular approach or position with regards to future efforts an organization may seek to pursue. A proposal needs to identify a problem, *propose* a solution and then provide a call to action to the stakeholders it's attempting to address. A proposal typically does not need to propose a solution nor does it present a call to action. 
+
+    A proposal is typically written in the present/future tense as it seeks to address where the company is now and how the proposed action can benefit the company now as well as in the future. 
+
+    A report is typically retrospective or written in the past tense to address events/activities that have already occured. 
+
+2. **Where Proposals and Reports Intersect**
+    
+    Reports and Proposals must both include relevant information and evidence backing their positions. For example, both must provide ample evidence as to why their conclusion/proposed solution is correct given the evidence or circumstances. These explanations and proofs can be quite lengthy depending on the subject and therefore both formats typically include an executive summary that allows leaders to quickly decipher relevant information and draw conclusions from that section. 
+
+3. **When Might You Write a Proposal Versus a Report**
+
+    You would want to write a proposal when you want your organization to partake a specific task that requires funding. The proposal format is good for this because under such circumstances you will want to persuade your organizations decision makers that this is a solvable problem, here's how we *propose to solve it*, here's what we need to execute that plan. This is typical of the proposal format and therefore the correct place to use it. 
+
+    For example, you might propose to your company that it would benefit your organization by attending a specific conference of likeminded companies. You may conclude that by attending this event your team will be able to benefit the company by networking with various other companies and in turn enabling you to gather insights about the future of your industry. In order to attend the event the price is some $x$ amount of dollars, so on and so forth. 
+
+    A report however you might use under varying circumstances, for example, in a technical environment if a production application experiences an outage, it's typical to collect findings as to why this outage occured. Then in the report format you can show these findings as well as conclude as to why the outage occured. This will help decision makers implement safeguards to prevent future outages. 
