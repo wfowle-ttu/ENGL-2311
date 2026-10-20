@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "notes",
@@ -61,5 +54,12 @@
     "title": "Book Chapter 11",
     "section": "Optional Resume Sections",
     "text": "Optional Resume Sections\n\nCertifications and Licenses\nHonors and Awards\nExtracurricular Activies\nPublications and Presentations\nReferences"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
