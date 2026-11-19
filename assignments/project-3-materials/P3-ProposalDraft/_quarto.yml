@@ -1,0 +1,5 @@
+project:
+  type: default
+  render:
+    - "Draft proposal Nov 19.qmd"
+  post-render: python _build/postprocess.py

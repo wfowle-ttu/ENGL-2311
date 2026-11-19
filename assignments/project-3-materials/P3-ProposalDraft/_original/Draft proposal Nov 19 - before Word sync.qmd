@@ -1,0 +1,137 @@
+---
+title: "Spoke City Miscommunication"
+subtitle: "Section: 008"
+author:
+  - AJ Escobedo
+  - Sofia Mendez
+  - Lyndon Nickerson
+  - William Fowle
+  - David Elwart III
+  - Keyandre Lopez Jefferson
+date: "November 19, 2026"
+date-format: "MMMM D, YYYY"
+format:
+  docx:
+    reference-doc: _build/proposal-reference.docx
+    toc: true
+    toc-depth: 2
+    toc-title: "Table of Contents"
+    number-sections: false
+    fig-cap-location: top
+    tbl-cap-location: top
+    fig-dpi: 300
+crossref:
+  title-delim: "."
+---
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Introduction
+
+Patients at Spoke City Orthopedic surgery and Therapy Center get recovery instructions from their doctors, therapist, handouts, and the patient portal. However, sometimes the information does not match, which can make it confusing for patients to know what they're supposed to do. Since patients do most of their recovery at home, it is important that they clearly understand their treatment plans. This proposal focuses on improving communication between employees and making instructions easier for patients to follow. Some ideas include having one system for updating treatment plans, showing exercises more clearly, making sure patients understand their instructions, and checking in with patients earlier to see if they have any questions or problems.
+
+# Problem Analysis
+
+Spoke city performs about 850 surgeries each year a little over 3 surgeries a day on average. These patients normally go to PT ftwo to three times a week for six to ten weeks following surgery. Much of their recovery depends on the at home exercises given to them during PT. Unfortunately, based on feedback, the instructions patients receive from surgeons, physical therapists, and recovery plans do not always align, and that's what we are here to fix.
+
+The August 2025 patient feedback cards contain several examples of this problem. One ACL patient received different instructions from two different therapists about when to begin stair exercises, while a separate report noted that the printed instructions differed from the in person instructions. Of the 20 feedback cards, six raised concerns about recovery guidance including four that specifically described instructions contradicting each other. These complaints involve both communication between employees and how consistent written and verbal instructions are. The patient survey shows similar signs of the 59 total patients 41 rated the clarity of their instructions a 3 or lower on a 5 point scale. In a different survey 39 patients rated their understanding of the exercises purpose 3 or lower on the same scale. While some of these responses are not negative they are still not majority positive, less than half rated a 4 or a 5 and that speaks volumes to what work needs to be done.
+
+![Patient ratings of rehabilitation instructions](fig-patient-ratings.png){#fig-patient-ratings width=6.5in}
+
+In the aforementioned survey 55 out of the 60 patients felt motivated to complete their exercises only sometimes rarely or never. Although the survey doesn't ask how often the patients actually completed their exercises the results still raise concerns about how well the rehabilitation outside the appointments goes. Petrosyan et al.(2024) studied how well adults adhere to outpatient treatment for musculoskeletal pain. Only 99 of the 203 patients reported fully following through with what exercise was prescribed. This study also found that age, pain in multiple areas, and how good the instructions were were directly associated with how much they actually followed through with their exercises.
+
+The employee survey also showed concerns with communication. Out of the 60 employees surveyed 25 rated consistency between the printed instructions, the patients portal and verbal explanations a 3 or lower. Another survey had 21 employees rate a 3 or worse in interdepartmental communications while there were still over half positive rating it shows there is room for improvement.
+
+![Employee Ratings of Communication](fig-employee-ratings.png){#fig-employee-ratings width=6.5in}
+
+Spoke City has an online patients portal but its usage varies and printed handouts are the primary method for providing the at home exercises. Patients also like to get their instructions in varying ways of the 60 surveyed 23 liked in person 13 preferred the videos 12 liked written instructions and 12 were all for the printed diagrams. The portal currently offers instructional videos for some procedures but its usage varies. Expanding these resources and keeping them updated with each patient's treatment plan would make the portal more useful when patients lose their program or forget the exercise.
+
+The 2025 internal emails bring up concerns about how some ACL repair patients over the age of 50 stopped regularly attending PT after gaining movement even though they weren't finished getting strength and stability back. The head surgeon also mentioned two patients who were unsure about their next steps and received the translated instructions after already having started physical therapy. The patient's guide also states hor the translation services are only available on Tuesday and Thursday during business hours.
+
+Equipment is another issue that came up in the feedback cards four of the 20 patients mentioned concerns about the equipment. One patient reported how a machine appeared squeaky and worn while another said that an exercise band snapped during treatment. Although older equipment isn't automatically unsafe equipment that malfunctions or breaks during use needs to be inspected and either repaired or replaced because it is a liability for the center and it makes the center look run down and not as professional.
+
+Anderson et al. (2018) studied an electric record system that allowed healthcare employees to access the same updated patient information. Communication between staff improved after this system was introduced.  Lonsdale et al (2017) In a similar study they found that training physical therapists to communicate more effectively improved patients ability to follow the at home part of their rehabilitation plan. The information collected from the patients and employees shows that Spoke city needs to improve how treatment instructions are communicated and updated. The equipment complaints are also something that needs work to make sure patients have a good place to complete their physical therapy.
+
+# Solution Overview
+
+To fix the communication issues at Spoke City Ortho Surgery & Therapy Centre we're recommending two things. One is to develop a secure app that staff can use to share and update patient information after every appointment. The other is to improve the communication between staff and patients via exercise demonstrations, the teach back method and mandatory in person follow up visits in the early phase of rehab. That would ensure staff are up to date with each patient's progress and that the patients understand their exercises and are motivated to do them.
+
+Our first recommendation is for Spoke City to develop an app that would allow staff to access up to date patient information. One of the issues identified in the case study was miscommunication between staff which led to patients receiving different instructions from different therapists. That in itself is a recipe for confusion and makes it very difficult for patients to know what they're supposed to be doing.
+
+The proposed application would enable authorized staff to view each patient's treatment plan, prescribed exercises, progress and previous appointment notes. Following each visit the therapist would be required to record what had transpired during the appointment, including the exercises performed, any patient concerns, any changes to the treatment plan and recommendations for the next visit. This would ensure that all staff working with the patient would have access to the same information.
+
+The AHRQ (2019) recommend the use of structured communication tools such as SBAR to assist healthcare staff in conveying key patient information. Spoke City could draw on the same principles when designing the app and when creating the documentation.
+
+Management could start by engaging with an IT specialist to establish the application's functionality and security needs. In the first two months the facility could then go on to develop or configure the system and train the staff. The big issue of course would be the cost of application development and the cost of securing the patient data. To mitigate that cost Spoke City could look at the option of taking an existing secure EHR system and adapting it rather than building a completely new application. That would be a much more sensible and cost effective route and would also improve the level of communication across the organization.
+
+Our second recommendation is to improve the way in which staff explain the rehabilitation exercises and treatment plans to patients. The Spoke City patient survey revealed that the average score for clarity of instructions was only 2.90/5. 41 of the 59 patients scored their understanding of their instructions 3 or below. Clearly there is a need to do better in this area.
+
+To deal with this issue the staff should demonstrate the exercise and then get the patient to do it themselves. The patient should then be asked to explain the instructions back to the therapist to confirm they have understood. This is the 'teach back' method. AHRQ (2024) state that teach back is a way of helping health professionals to ascertain whether the patient has actually understood the information that has been given to them.
+
+Spoke City should also require the initial few follow-ups to be in person where possible and appropriate from a medical point of view. During those visits the therapist could assess whether the patient is actually doing the exercises correctly, answer any questions they might have and provide encouragement. That in itself would be a very useful thing in terms of building the patient's confidence and motivation at the outset of their rehabilitation.
+
+Staff could start to use the teach back method following a very short training session in the first month. The site could then go on to establish a standardized schedule for the initial follow-up. The issue of scheduling additional face to face appointments for patients who have transport issues or very full schedules would be a problem. Spoke City could deal with this by having a flexible appointment times and being able to make exceptions as required.
+
+In addition to these two recommendations, Spoke City should address the worn equipment that patients and employees reported. We recommend inspecting all therapy equipment, replacing items that are worn or unsafe, such as the therapy bikes and resistance bands, and making minor renovations to the therapy gym. Equipment that breaks during treatment is a safety risk, and a well-maintained facility supports the professional image that clear instructions are meant to build.
+
+# Proposed Implementation Timeline
+
+| Timeline | Action | Responsible Stakeholders |
+|:---------|:-------|:-------------------------|
+| Month 1 | Plan the patient information application and train therapists in teach-back | Management, IT staff, and therapists |
+| Month 2 | Test the application and begin documenting patient visits | IT staff and therapists |
+| Month 3 | Fully implement the system and introduce early in-person follow-up procedures | Management and therapists |
+| Months 2–3 | Inspect therapy equipment, replace worn items, and complete minor gym renovations | Management and facilities staff |
+| Months 4–6 | Review patient feedback, employee communication, and treatment progress | Management and employees |
+
+: Proposed implementation timeline for Spoke City's communication and equipment improvements. {#tbl-timeline tbl-colwidths="[16,52,32]"}
+
+These two options, along with the equipment updates, could go some way to improving communication across Spoke City and lead to a better rehab experience for the patients. In the short term the staff would have access to up to date patient information which would reduce the likelihood of giving conflicting instructions. The patients themselves would get clearer explanations and more opportunity to demonstrate their understanding, and they would complete their therapy on equipment that is safe and in good repair.
+
+In the long term these changes could lead to improved patient satisfaction, motivation and adherence to treatment. Spoke City could measure the impact by carrying out a follow up survey and comparing the results to the original patient survey. Investing in better communication between staff and patients, and in a well-maintained facility, could go a long way to creating a more structured and effective rehab environment.
+
+# Budget Allocation
+
+In the request letter, Spoke City's CEO stated that the clinic has allocated a budget of \$100,000 for the upcoming fiscal year to fund improvements based on our recommendations. @fig-budget shows how we propose to divide that budget across the two recommendations, updates to worn equipment and minor renovations, our team's work, a follow-up evaluation, and a contingency reserve. All hours and rates are planning estimates that management should confirm with vendors and payroll before committing funds.
+
+![Proposed budget allocation by category](fig-budget.png){#fig-budget width=6.5in}
+
+The largest allocation of the budget (\$47,400) will go towards the shared EHR (Electronic Health Record) application. This covers a first-year license (\$24,000) and some 160 hours of IT specialist time to configure it and connect it to the clinic's existing records. Additionally, it is worthwhile to get an outside security and privacy review for the sake of risk mitigation. We believe that adapting an existing EHR product instead of building a new app will keep costs significantly lower compared to a custom development timeline. 
+
+Improving staff-patient communication receives the next largest share of the budget at \$25,000. Each of the clinic's 44 clinical staff members would complete four hours of paid training in the teach-back method as well as using the new EHR application. The clinic would also produce exercise demonstration videos for use in the patient portal as well as update its printed handouts. We would also fund 180 additional therapist hours so that early follow up visits can be held in person.
+
+We have also set aside \$10,000 for the therapy facility itself. Four of the 20 feedback cards described worn or broken equipment, and in the employee survey 33 of 60 employees ranked updated therapy equipment as their top priority for facility improvement, while 20 reported equipment that needed repair or replacement during patient care. \$7,000 would replace the two worn therapy bikes, replace frayed resistance bands, worn foam pads, and balance boards, repair the worn resistance machine, and pay for an inspection of all gym equipment. The remaining \$3,000 would cover minor renovations that employees suggested, such as patching and repainting the therapy gym walls, improving lighting in the gym and hand therapy area, and adding privacy partitions for sensitive conversations.
+
+Included in the budget are our team's fees. We charge \$75 per hour and project 140 hours of work (\$10,500): 40 hours of research and analysis, 60 hours supporting implementation, and 40 hours evaluating results and writing a final report. A further \$2,100 pays for follow up patient and employee surveys in months four through six so we can confirm if results have improved over the original surveys. 
+
+## Risk Mitigation
+
+The main financial risk is that application costs turn out to be more than originally estimated. To manage this risk we will hold \$5,000 of budget in reserve. Additionally, we will recommend releasing funds in two phases: license and setup costs are paid only after IT staff confirm the module meets the clinic's security needs. From there, the remaining configuration hours can be released after the two month test. A second risk is low staff adoption; we will address this risk by scheduling training during paid hours and by reviewing documentation use in months four through six. If we find that early in-person follow ups are hard for patients to attend we will shift the added therapist hours into flexible appointment times. Equipment replacement will be scheduled so that only one piece of equipment is out of service at a time, and the equipment inspection will be done first so that if it finds more problems than expected, repairs that affect patient safety come before renovations. Any contingency left at the end of the year can go toward further equipment needs the inspection identifies.
+
+# Conclusion
+
+Patients at Spoke City Orthopedic Surgery & Therapy Center complete most of their rehabilitation at home, which makes clear and consistent instructions essential. The evidence gathered for this proposal shows that this is not happening reliably. Six of the 20 feedback cards raised concerns about recovery guidance, four described worn or broken equipment, 41 of 59 patients rated the clarity of their instructions a 3 or lower, and 25 of 60 employees rated consistency across instruction sources a 3 or lower. Research on home exercise adherence suggests that unclear instructions can directly affect whether patients follow their treatment plans.
+
+To address these problems, we recommend three changes: a secure shared application so staff can document and access the same up to date treatment plans; improved staff-patient communication through exercise demonstrations, the teach-back method, and early in-person follow-ups; and replacing worn therapy equipment along with minor renovations to the therapy gym. All three can be introduced within three months and reviewed during months four through six. The main challenges are cost, training time, and scheduling, but adapting an existing EHR system and offering flexible appointments can reduce them.
+
+By following this plan, Spoke City can reduce conflicting instructions and help patients feel more confident and motivated in a safer, better-maintained facility. A follow-up survey comparing results to the original data will show whether the changes worked, giving the center a clear path toward better rehabilitation outcomes.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# References
+
+::: {custom-style="Bibliography"}
+Agency for Healthcare Research and Quality. (2019). *Tool: SBAR*. TeamSTEPPS. <https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html>
+
+Agency for Healthcare Research and Quality. (2024). *Use the teach-back method: Tool 5*. <https://www.ahrq.gov/health-literacy/improve/precautions/tool5.html>
+
+Anderson, R. J., Sparbel, K., Barr, R. N., Doerschug, K., & Corbridge, S. (2018). Electronic health record tool to promote team communication and early patient mobility in the intensive care unit. *Critical Care Nurse*, *38*(6), 23–34. <https://doi.org/10.4037/ccn2018813>
+
+Lonsdale, C., Hall, A. M., Murray, A., Williams, G. C., McDonough, S. M., Ntoumanis, N., Owen, K., Schwarzer, R., Parker, P., Kolt, G. S., & Hurley, D. A. (2017). Communication skills training for practitioners to increase patient adherence to home-based rehabilitation for chronic low back pain: Results of a cluster randomized controlled trial. *Archives of Physical Medicine and Rehabilitation*, *98*(9), 1732–1743.e7. <https://doi.org/10.1016/j.apmr.2017.02.025>
+
+Petrosyan, H., Leonardi, C., Thakral, A., Roth, J., Russoniello, N., Goldin, Y., & Parikh, S. (2024). Barriers and factors associated with adherence to a home exercise program of adults with musculoskeletal pain. *Journal of Back and Musculoskeletal Rehabilitation*, *37*(2), 473–485. <https://doi.org/10.3233/BMR-230178>
+:::
